@@ -1,0 +1,4 @@
+iso639-lang==2.2.2
+langdetect==1.0.9
+py3langid==0.2.2
+

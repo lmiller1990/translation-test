@@ -1,0 +1,231 @@
+{
+   "audiences" : [],
+   "containsDynamicDataSource" : false,
+   "dataVersion" : "2.2",
+   "description" : "Show a collection of links to content such as documents, images, videos, and more in a variety of layouts with options for icons, images, and audience targeting.",
+   "id" : "c70391ea-0b10-4ee9-b2b4-006d3fcad0cd",
+   "instanceId" : "47ad1f66-bba4-4923-8a39-79fdc968aebd",
+   "properties" : {
+      "Title" : "Nguyên tắc Chỉ dẫn",
+      "buttonLayoutOptions" : {
+         "buttonTreatment" : 3,
+         "iconPositionType" : 1,
+         "linesOfText" : 1,
+         "showDescription" : false,
+         "textAlignmentHorizontal" : 2,
+         "textAlignmentVertical" : 1
+      },
+      "dataProviderId" : "QuickLinks",
+      "hideWebPartWhenEmpty" : true,
+      "imageWidth" : 100,
+      "isMigrated" : true,
+      "items" : [
+         {
+            "altText" : "",
+            "description" : "",
+            "id" : 1,
+            "rawPreviewImageMinCanvasWidth" : 32767,
+            "sourceItem" : {
+               "fileExtension" : ".PDF",
+               "guids" : {
+                  "listId" : "{3393DA5D-4690-42F2-99EB-652636065E85}",
+                  "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+                  "uniqueId" : "367f53a9-9369-4f7d-87b9-747e36b675f8",
+                  "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+               },
+               "itemType" : 0,
+               "progId" : null
+            },
+            "thumbnailType" : 3
+         },
+         {
+            "altText" : "",
+            "description" : "",
+            "id" : 2,
+            "rawPreviewImageMinCanvasWidth" : 32767,
+            "sourceItem" : {
+               "fileExtension" : ".PDF",
+               "guids" : {
+                  "listId" : "{3393DA5D-4690-42F2-99EB-652636065E85}",
+                  "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+                  "uniqueId" : "1d6c7f13-0800-4034-b476-342a133d7dbf",
+                  "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+               },
+               "itemType" : 0,
+               "progId" : null
+            },
+            "thumbnailType" : 3
+         },
+         {
+            "altText" : "",
+            "description" : "",
+            "id" : 3,
+            "rawPreviewImageMinCanvasWidth" : 32767,
+            "sourceItem" : {
+               "fileExtension" : ".PDF",
+               "guids" : {
+                  "listId" : "{3393DA5D-4690-42F2-99EB-652636065E85}",
+                  "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+                  "uniqueId" : "5b0cb3e0-1851-48c6-8afe-998143fa4abc",
+                  "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+               },
+               "itemType" : 0,
+               "progId" : null
+            },
+            "thumbnailType" : 3
+         },
+         {
+            "altText" : "",
+            "description" : "",
+            "id" : 4,
+            "rawPreviewImageMinCanvasWidth" : 32767,
+            "sourceItem" : {
+               "fileExtension" : ".PDF",
+               "guids" : {
+                  "listId" : "{3393DA5D-4690-42F2-99EB-652636065E85}",
+                  "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+                  "uniqueId" : "32c64ffa-da38-4bdc-9078-b9860b488f06",
+                  "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+               },
+               "itemType" : 0,
+               "progId" : null
+            },
+            "thumbnailType" : 3
+         },
+         {
+            "altText" : "",
+            "description" : "",
+            "id" : 5,
+            "rawPreviewImageMinCanvasWidth" : 32767,
+            "sourceItem" : {
+               "fileExtension" : ".PDF",
+               "guids" : {
+                  "listId" : "{3393DA5D-4690-42F2-99EB-652636065E85}",
+                  "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+                  "uniqueId" : "c59f902d-7e12-4166-bfa2-e175feb3a570",
+                  "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+               },
+               "itemType" : 0,
+               "progId" : null
+            },
+            "thumbnailType" : 3
+         },
+         {
+            "altText" : "",
+            "description" : "",
+            "id" : 6,
+            "rawPreviewImageMinCanvasWidth" : 32767,
+            "sourceItem" : {
+               "fileExtension" : ".PDF",
+               "guids" : {
+                  "listId" : "{3393DA5D-4690-42F2-99EB-652636065E85}",
+                  "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+                  "uniqueId" : "cc0a3347-7006-4ee9-93c9-8aa6ba71a38a",
+                  "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+               },
+               "itemType" : 0,
+               "progId" : null
+            },
+            "thumbnailType" : 3
+         },
+         {
+            "altText" : "",
+            "description" : "",
+            "id" : 7,
+            "rawPreviewImageMinCanvasWidth" : 32767,
+            "sourceItem" : {
+               "fileExtension" : ".PDF",
+               "guids" : {
+                  "listId" : "{3393DA5D-4690-42F2-99EB-652636065E85}",
+                  "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+                  "uniqueId" : "1d306f79-eb15-4dee-be6d-899accdf6e5f",
+                  "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+               },
+               "itemType" : 0,
+               "progId" : null
+            },
+            "thumbnailType" : 3
+         },
+         {
+            "altText" : "",
+            "description" : "",
+            "id" : 8,
+            "rawPreviewImageMinCanvasWidth" : 32767,
+            "sourceItem" : {
+               "fileExtension" : ".PDF",
+               "guids" : {
+                  "listId" : "{3393DA5D-4690-42F2-99EB-652636065E85}",
+                  "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+                  "uniqueId" : "e9db2f58-5bb8-4fce-ac1d-bc612040613a",
+                  "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+               },
+               "itemType" : 0,
+               "progId" : null
+            },
+            "thumbnailType" : 3
+         },
+         {
+            "altText" : "",
+            "description" : "",
+            "id" : 9,
+            "rawPreviewImageMinCanvasWidth" : 32767,
+            "sourceItem" : {
+               "fileExtension" : ".PDF",
+               "guids" : {
+                  "listId" : "{3393DA5D-4690-42F2-99EB-652636065E85}",
+                  "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+                  "uniqueId" : "e1faeed4-5c87-4145-baf1-6cc70fe7b18f",
+                  "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+               },
+               "itemType" : 0,
+               "progId" : null
+            },
+            "thumbnailType" : 3
+         }
+      ],
+      "layoutId" : "Button",
+      "listLayoutOptions" : {
+         "showDescription" : false,
+         "showIcon" : true
+      },
+      "shouldShowThumbnail" : true,
+      "siteId" : "d347230c-0b1e-44d0-b485-eee99ab5be4e",
+      "waffleLayoutOptions" : {
+         "iconSize" : 1,
+         "onlyShowThumbnail" : false
+      },
+      "webId" : "18364de3-e41c-494b-b5ce-8dee6c0275e9"
+   },
+   "serverProcessedContent" : {
+      "componentDependencies" : {
+         "layoutComponentId" : "706e33c8-af37-4e7b-9d22-6e5694d92a6f"
+      },
+      "htmlStrings" : {},
+      "imageSources" : {},
+      "links" : {
+         "baseUrl" : "/",
+         "items[0].sourceItem.url" : "/Guiding%20Principles/2021%20Guiding%20Principles%208th%20ed%20-%20ENG.pdf",
+         "items[1].sourceItem.url" : "/Guiding%20Principles/2021%20Guiding%20Principles%208th%20ed%20-%20CHN.pdf",
+         "items[2].sourceItem.url" : "/Guiding%20Principles/2021%20Guiding%20Principles%208th%20ed%20-%20NED.pdf",
+         "items[3].sourceItem.url" : "/Guiding%20Principles/2021%20Guiding%20Principles%208th%20ed%20-%20FRA.pdf",
+         "items[4].sourceItem.url" : "/Guiding%20Principles/2021%20Guiding%20Principles%208th%20ed%20-%20HIN.pdf",
+         "items[5].sourceItem.url" : "/Guiding%20Principles/2021%20Guiding%20Principles%208th%20ed%20-%20KAN.pdf",
+         "items[6].sourceItem.url" : "/Guiding%20Principles/2021%20Guiding%20Principles%208th%20ed%20-%20MEX.pdf",
+         "items[7].sourceItem.url" : "/Guiding%20Principles/2021%20Guiding%20Principles%208th%20ed%20-%20TUR.pdf",
+         "items[8].sourceItem.url" : "/Guiding%20Principles/2021%20Guiding%20Principles%208th%20ed%20-%20VIE.pdf"
+      },
+      "searchablePlainTexts" : {
+         "items[0].title" : "Guiding Principles",
+         "items[1].title" : "指导原则",
+         "items[2].title" : "Richtlijnen",
+         "items[3].title" : "Principes directeurs",
+         "items[4].title" : "मार्गदर्शक सिद्धांतों",
+         "items[5].title" : "ಮಾರ್ಗದರ್ಶಿ ಸೂತ್ರಗಳು",
+         "items[6].title" : "Principios rectores",
+         "items[7].title" : "Yol Gösterici Ilkeler",
+         "items[8].title" : "Nguyên tắc Chỉ dẫn",
+         "title" : "View & Download the Guiding Principles below."
+      }
+   },
+   "title" : "Quick links"
+}
